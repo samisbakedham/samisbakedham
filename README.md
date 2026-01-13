@@ -1,4 +1,8 @@
 ### stats
-[![Samisbakedham's GitHub stats](https://readme-github-git-main-samisbakedhams-projects.vercel.app/api?username=samisbakedham&show_icons=true&theme=radical)](https://github.com/samisbakedham/github-readme-stats)
+<p align="left">
+  <img src="https://readme-github-git-main-samisbakedhams-projects.vercel.app/api?username=samisbakedham&show_icons=true&theme=radical&v=1" alt="Samisbakedham's GitHub stats" />
+</p>
 
-[![Top Langs](https://readme-github-git-main-samisbakedhams-projects.vercel.app/api/top-langs/?username=samisbakedham&layout=compact&show_icons=true&theme=radical)](https://github.com/samisbakedham/github-readme-stats)
+<p align="left">
+  <img src="https://readme-github-git-main-samisbakedhams-projects.vercel.app/api/top-langs?username=samisbakedham&layout=compact&show_icons=true&theme=radical&v=1" alt="Top Langs" />
+</p>
